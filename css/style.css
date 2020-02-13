@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,600,600i,700,800,800i&display=swap');
+
+/* font-family: 'Playfair Display', serif; */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+a{
+    text-transform: uppercase;
+    color: #b4ad9e;
+}
+h1{
+    font-size: 30px;
+    color: #626262;
+}
+p{
+    color: #626262;
+}
+
+.header{
+    padding: 30px 0;
+}
+
+.cover-part{
+    margin-bottom: 100px;
+}
+
+.cover-part img{
+    width: 100%;
+}
+
+.cover-content h1{
+    margin: 30px 0;
+}
+
+.cover-content a{
+    padding: 30px 0;
+}
+
+.cover-content p{
+    margin-bottom: 50px;
+}
+
+.lifestyle-part-up img{
+    width: 100%;
+    margin: 50px 0;
+}
+
+.lifestyle-part-up h1{
+    margin: 30px 0;
+}
+
+.photodairy-part img{
+    margin: 50px 0;
+}
+
+.photodairy-part h1{
+    margin: 30px 0;
+}
+
+.signup{
+    height: 300px;
+    margin: 100px 0;
+    background-color: #f0f0f0;
+    text-align: center;
+    position: relative;
+}
+
+.signup h1{
+    margin: 70px 0;
+}
+.signup img{
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+}
+
+.signup input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    width: 85%;
+}
+
+.lifestyle-part-bottom img{
+    width: 100%;
+    margin: 50px 0;
+}
+
+.lifestyle-part-bottom h1{
+    margin: 30px 0;
+}
+
+.button{
+    text-align: center;
+    margin: 150px 0;
+}
+
+.button button{
+    padding: 20px;
+}
+
+.bottom a{
+    text-transform: initial;
+}
+
+.bottom i{
+    color: #626262;
+}
+
+
